@@ -1,7 +1,6 @@
 ### Hi there 👋
-- Dedicado a aprender día a día, entrando en el mundo de la documentación con Markdown y programación javaScript, Node, Frontend. Con cierta atracción y curiosidad por el mundo UX/UI y data analyst por lo que próximamente estaré investigando sobre eso.
 
-- En fin por lo pronto test, test, test my profile 😄
+Soy un desarrollador apasionado y comprometido que se esfuerza por estar al tanto de las últimas tendencias y mejores prácticas en desarrollo web. Me encanta colaborar con otros desarrolladores y diseñadores para lograr los mejores resultados y aprender dia a dia de este gran mundo.
 <!--
 **coxmau77/coxmau77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
