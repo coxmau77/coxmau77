@@ -1,5 +1,7 @@
 ### Hi there 👋
-Desarrollador apasionado y comprometido que se esfuerza por estar al tanto de las últimas tendencias y mejores prácticas en desarrollo web. Entiendo la importancia de colaborar con otros desarrolladores,  diseñadores y aprender dia a dia de este gran mundo.
+
+Soy estudiante de programación e instructor front-end y backend, apasionado por el avance de nuevas tecnologías. Me considero una persona colaborativa y capaz, que entiende la importancia del crecimiento y ampliación del conocimiento constante, buscando el lugar correcto que me de la oportunidad de seguir avanzando, y capacitarme para lograr ser un gran profesional en el desarrollo web junto a un equipo que retroalimente mis conocimientos y mi experiencia.
+
 <!--
 **coxmau77/coxmau77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
